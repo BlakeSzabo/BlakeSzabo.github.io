@@ -91,7 +91,7 @@ Imagine the above, but for every single test suite. It's bad.
 
 # The Fix
 
-Lucky for me, the immediate fix is simple. Just don't use named exports. So I searched for every icon import and fixed them all. Voila, problem solved! Until someone, anyone, imports with a named export. Which if you remember is the default behaviour for VSCode. Coolio. We slap a ESLint rule to prevent this import from happening again and call it a day.
+Lucky for me, the immediate fix is simple. Just don't use named exports. So I searched for every icon import and fixed them all. Voila, problem solved! Until someone, anyone, imports with a named export. Which if you remember is the default behaviour for VSCode. Coolio. We slap an ESLint rule to prevent this import from happening again and call it a day.
 
 Currently, this is where we stand. There is probably more that I can do in this area, yes, but I also have other work I have to do and it's difficult to pitch working on a problem that's already "fixed" in favour of shipping an actual feature.
 
