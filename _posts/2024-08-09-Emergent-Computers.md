@@ -1,6 +1,6 @@
 ---
 title: Emergent Computers 
-date: 2024-08-09 21:00:00 +1000
+date: 2024-08-09 21:00:00+1000
 categories: [Computer Science]
 tags: [Computer Science]
 author: blake_szabo

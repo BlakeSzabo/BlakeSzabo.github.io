@@ -1,6 +1,6 @@
 ---
 title: You've imported an icon, now prod is down.
-date: 2024-07-27 19:00:00 +1000
+date: 2024-07-27 19:00:00+1000
 categories: [Software Engineering]
 tags: [React, Jest, TypeScript]
 author: blake_szabo
