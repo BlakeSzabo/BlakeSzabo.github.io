@@ -106,5 +106,4 @@ on what you think is reasonable. Unless you have a good reason to I generally do
 think it would be a good use of your time to spend months implementing a complicated
 solution to a problem you have to save 0.5ms before you actually ship something that works.
 
-Stay curious, though. Trial by fire is usually the best means of learning in my
-opinion.
+Stay curious.
